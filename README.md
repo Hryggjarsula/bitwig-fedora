@@ -4,6 +4,7 @@ Automatization of Bitwig Studio installation process on Fedora.
 For older versions check the repository tags.
 
 ## TAGS
+- Bitwig Studio **2.4.2** (Fedora 29)
 - Bitwig Studio **2.4**   (Fedora 28)
 - Bitwig Studio **2.3.5** (Fedora 28)
 - Bitwig Studio **2.3.4** (Fedora 27)
@@ -14,6 +15,7 @@ For older versions check the repository tags.
 ----
 ## Install procedure:
 1. ```git clone https://github.com/nunodio/bitwig-fedora.git```
+
 
 2. ```cd bitwig-fedora```
 
